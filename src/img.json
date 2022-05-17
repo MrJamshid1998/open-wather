@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "caption": "Rasm 1",
+        "src": "./img/1.jpg",
+        "alt": "1-Rasm topilmadi",
+        "width": "60%" 
+    },
+    {
+        "id": 2,
+        "caption": "Rasm 2",
+        "src": "./img/2.jpg",
+        "alt": "2-Rasm topilmadi",
+        "width": "60%"  
+    },
+    {
+        "id": 3,
+        "caption": "Rasm 3",
+        "src": "./img/3.jpg",
+        "alt": "3-Rasm topilmadi",
+        "width": "60%"  
+    },
+    {
+        "id": 4,
+        "caption": "Rasm 4",
+        "src": "./img/4.jpg",
+        "alt": "4-Rasm topilmadi",
+        "width": "60%"  
+    },
+    {
+        "id": 5,
+        "caption": "Rasm 5",
+        "src": "./img/5.jpg",
+        "alt": "5-Rasm topilmadi",
+        "width": "60%"  
+    },
+    {
+        "id": 6,
+        "caption": "Rasm 6",
+        "src": "./img/6.jpg",
+        "alt": "6-Rasm topilmadi",
+        "width": "60%"  
+    }
+       
+]
